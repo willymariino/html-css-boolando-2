@@ -8,7 +8,7 @@ This repository contains an introductory exercise focused on building a basic e-
 
 ## Key Features
 
-- **Grid Layout**: The main section of the page presents a collection of product cards arranged in a responsive grid, utilizing CSS flexbox for structure and adaptability.
+- **Grid Layout**: Product cards are displayed in a grid structure using calculated widths and consistent spacing between items.
 - **Absolute and Relative Positioning**: Promotional labels, such as discount badges and sustainability tags, are positioned over product images using absolute positioning within relatively positioned containers.
 - **Image Overlay Effects**: Each product image incorporates a hover effect that seamlessly transitions to an alternate image, implemented through CSS transitions for a smooth user experience.
 
