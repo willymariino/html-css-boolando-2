@@ -13,11 +13,9 @@ This repository contains an introductory exercise focused on building a basic e-
 - **Image Overlay Effects**: Each product image incorporates a hover effect that seamlessly transitions to an alternate image, implemented through CSS transitions for a smooth user experience.
 
 ## Tech Stack
-
-## Tech Stack
-**HTML5**: Semantic structure of the layout.
-**CSS3**: Styling, grid layout, positioning, hover effects, and transitions.
-**Netlify**: Used for live deployment.
+- **HTML5**: Semantic structure of the layout.
+- **CSS3**: Styling, grid layout, positioning, hover effects, and transitions.
+- **Netlify**: Used for live deployment.
 
 ## Live Demo
 
