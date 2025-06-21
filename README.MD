@@ -22,9 +22,6 @@ This repository contains an introductory exercise focused on building a basic e-
 A live demonstration of the project is available at the following link:  
 [Boolando](https://boolando-2.netlify.app/)
 
-## How to View Locally
-Open `index.html` in your browser. No additional setup required.
-
 ## Learning Objectives
 Learn to structure a responsive layout with semantic HTML and CSS grid/flexbox.
 Understand the relationship between `position: relative` and `position: absolute`.
