@@ -22,7 +22,7 @@ This repository contains an introductory exercise focused on building a basic e-
 ## Live Demo
 
 A live demonstration of the project is available at the following link:  
-[https://boolando-2.netlify.app/](https://boolando-2.netlify.app/)
+[Boolando](https://boolando-2.netlify.app/)
 
 ## Project Structure
 /
