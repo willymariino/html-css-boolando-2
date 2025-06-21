@@ -25,9 +25,10 @@ A live demonstration of the project is available at the following link:
 [Boolando](https://boolando-2.netlify.app/)
 
 ## Project Structure
-/
+```
 ├── index.html     // HTML markup for the layout
 └── style.css      // CSS styling and layout rules
+```
 ## How to View Locally
 Open `index.html` in your browser. No additional setup required.
 
